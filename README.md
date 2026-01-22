@@ -72,3 +72,5 @@ Contributions to PolygonEdge are welcome and appreciated! We value community inp
 # License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/Ronaldo45rt/PolygonEdge/blob/main/LICENSE) file for details.
+
+Auto PR badge trigger.
